@@ -1073,7 +1073,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-col">
-                    <h3>NexusShop</h3>
+                    <h3>Manju Shops</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
