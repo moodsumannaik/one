@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.61.22.28:8081/repository/Artifact-repo/</url>
+		    <url>http://13.62.101.156:8081/repository/nexus-artifactrepo/</url>
 		</repository>
   	</distributionManagement>
 	
